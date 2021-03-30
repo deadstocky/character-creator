@@ -1,8 +1,15 @@
 .footer {
-  position: relative;
-  padding: 64px;
-  background: hsl(0deg, 0%, 5%);
-  color: white;
-  text-align: center;
+	position: relative;
+	padding: 64px;
+	background: hsl(0deg, 0%, 5%);
+	color: white;
+	text-align: center;
 }
 
+footer a {
+	color: white;
+}
+
+footer a:hover {
+	color: hsl(0, 0%, 80%);
+}
