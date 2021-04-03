@@ -1,4 +1,4 @@
 .buttonRow {
-	max-height: 65px;
-	min-width: max-content;
+	white-space: nowrap;
+	padding-top: 24px;
 }
